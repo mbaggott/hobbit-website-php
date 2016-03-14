@@ -1,0 +1,4 @@
+firstName	mike	lastName	baggott	username	mikey	password	64024c4afaac000b12ddcd2e0c51512b	dob		gender		email	mike@hotmail.com	address		memType	mithril	memLength	annual
+firstName	mike	lastName	baggott	username	mikey	password	64024c4afaac000b12ddcd2e0c51512b	dob		gender		email	mikey@hotmail.com	address		memType	mithril	memLength	annual
+firstName	mike	lastName	test	username	test	password	64024c4afaac000b12ddcd2e0c51512b	dob		gender		email	mikeb@hotmail.com	address		memType	mithril	memLength	annual
+firstName	john	lastName	baggott	username	johno	password	64024c4afaac000b12ddcd2e0c51512b	dob		gender		email	john@pac.com.au	address		memType	platinum	memLength	ten
